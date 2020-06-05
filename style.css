@@ -1,0 +1,179 @@
+body {
+    display: inline;
+    margin: 0;
+    background-color: #abf0e9;
+    text-align: center;
+}
+
+header {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: #1f4068;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 30px;
+}
+
+span {
+    background-color: #abf0e9;
+    color: black;
+    margin: 0;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+strong {
+    color: black;
+    border-color: white;
+}
+
+h5 {
+    color: #1f4068;
+}
+
+span {
+    color: black;
+    margin-left: 35px;
+    margin-right: 35px;
+    padding-right: 19px;
+    padding-left: 10px;
+    padding-bottom: 14px;
+}
+
+form {
+    height: 50px;
+    weight: 50px;
+}
+
+ul {
+    font-size: 15px;
+    height: 200px;
+    margin: 0 500px 50px 500px;
+    border: 10px;
+}
+
+footer {
+    background-color: #63b7af;
+    text-align: center;
+    height: 65px;
+    padding-top: 20px;
+    width: 100%;
+    color: crimson;
+}
+
+footer img {
+    width: 30px;
+    display: inline;
+}
+
+footer p {
+    display: inline;
+    position: relative;
+    bottom: 10px;
+}
+
+.mainLogo {
+    background-color: #abf0e9;
+    position: absolute;
+    margin-top: 29px;
+    margin-left: 253px;
+    display: inline;
+    padding-right: 28px;
+    padding-left: 13px;
+
+}
+
+
+.logo {
+    display: inline-block;
+    color: #f3c623;
+    position: relative;
+    margin-top: 100px;
+
+}
+
+.midContainer {
+    position: relative;
+    display: inline;
+    margin-top: 20px;
+    font-family: 'Kaushan Script', cursive;
+    color: #cf7500;
+    font-size: 30px;
+
+
+}
+
+
+
+.image1 {
+    display: inline-block;
+    position: relative;
+    margin-left: 100px;
+    width: 500px;
+    height: 400px;
+
+}
+
+.image2 {
+    display: inline-block;
+    position: relative;
+    margin-left: 115px;
+    margin-right: 0px;
+    width: 500px;
+    height: 400px;
+
+}
+
+.greeting {
+    margin-left: 80px;
+    width: 80%;
+}
+
+.icon {
+    width: 20px;
+}
+
+
+.footest {
+    color: #cf7500;
+}
+
+#dateNote {
+    color: #1f4068;
+    font-size: 40px;
+    font-family: 'Kaushan Script', cursive;
+
+}
+
+#date {
+    background-color: pink;
+    font-family: 'Bungee Outline', cursive;
+    font-size: 50px;
+    color: black;
+    width: 50%;
+    margin-left: 25%;
+}
+
+#addButton {
+    background-color: pink;
+    width: 60px;
+    height: 30px;
+
+}
+
+#inputValue {
+    background-color: pink;
+    width: 300px;
+    height: 30px;
+
+}
+
+#p2 {
+    color: #f76a8c;
+    font-size: 20px;
+}
+
+#newList {
+    background-color: #0c7b93;
+    color: pink;
+    font-size: 20px;
+}
